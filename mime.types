@@ -96,8 +96,7 @@ types {
     application/x-font-ttf                ttf;
     font/opentype                         otf;
     application/vnd.ms-fontobject         eot;
-    application/font-woff                 woff;
-    application/font-woff                 woff2;
+    application/x-woff                    woff;
 
     application/octet-stream              bin exe dll;
     application/octet-stream              deb;
